@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Unsplash image search",
+  "name": "Unsplash image search",
   "icons": [
     {
       "src": "favicon.ico",
