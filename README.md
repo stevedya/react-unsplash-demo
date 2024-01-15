@@ -1,7 +1,8 @@
 # Unsplash Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It fetches images from unsplash api and displays them in a grid. 
 <img width="1080" alt="Screenshot 2024-01-15 at 12 02 05 PM" src="https://github.com/stevedya/react-unsplash-demo/assets/25041665/fb410f59-cd90-4672-91e3-dc35247eee18">
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It fetches images from unsplash api and displays them in a grid. 
 
 ## Important: Add Unsplash env var to .env
 `REACT_APP_UNSPLASH_ACCESS_KEY=key-here`
