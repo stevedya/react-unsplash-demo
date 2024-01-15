@@ -1,9 +1,9 @@
 import './App.css';
-import Header from "./Header";
+import Header from "./components/Header";
 import Images from "./components/Images";
 import {useCallback, useEffect, useState} from "react";
 import _debounce from "lodash/debounce";
-import Heading from "./Heading";
+import Heading from "./components/Heading";
 
 function App() {
     const [loading, setLoading] = useState(false)

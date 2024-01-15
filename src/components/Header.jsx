@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "./Heading";
-import Icon from "./components/Icon";
+import Icon from "./Icon";
 import PropTypes from 'prop-types';
 
 const Header = ({ onSearch }) => {

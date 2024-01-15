@@ -8,10 +8,8 @@ const Heading = ({ size, icon, children  }) => {
         switch (size) {
             case 'h2':
                 return <h2 className={`${defaultClasses} text-sm font-semibold md:text-xl`}>{icon}{children}</h2>
-                break;
             case 'h1':
                 return <h1 className={`${defaultClasses} text-lg font-bold md:text-2xl`}>{icon}{children}</h1>
-                break;
             default:
                 console.log('Heading.jsx error, you must specify a heading size')
         }
